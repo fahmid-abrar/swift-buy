@@ -14,7 +14,38 @@
     color: #fff;
     border-radius: 5px;
     padding: 5px 20px;
+    margin-top: 3px;
 }
 .banner_title{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.categories{
+    background-image: linear-gradient(to bottom, #ff589b 0% , #ff136f 100%);
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px 15px;
+    border-radius: 8px;
+}
+
+.categories img{
+    width: 100px;
+}
+
+h5{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+
+#subscribe{
+    height: 300px;
+}
+
+footer{
+    text-align: center;
 }
