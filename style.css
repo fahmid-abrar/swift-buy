@@ -1,0 +1,20 @@
+.container{
+    margin-top: 60px;
+}
+.pink-bg{
+    background-color: rgb(187, 219, 233);
+    border-radius: 8px;
+}
+.carousel-item{
+    padding: 40px 40px;
+}
+.buy-now-btn{
+    background-image: linear-gradient(to bottom, #ff589b 0% , #ff136f 100%);
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+    padding: 5px 20px;
+}
+.banner_title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
